@@ -6,6 +6,7 @@ rate = 0.0215
 num_month = 360
 house_rent = 30000
 decay_rate = 0.014
+management_cost = 3300 * 12
 
 # Other constants
 cpi_inflation = 0.02
